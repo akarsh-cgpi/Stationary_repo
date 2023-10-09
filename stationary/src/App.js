@@ -2,8 +2,10 @@ import './App.css';
 
 function App() {
   return (
-   <h1>Stationary dashborad </h1>
-
+    <div>
+      <h1>Stationary dashborad </h1>
+      <h2>List of stationary items </h2>
+    </div>
   );
 }
 
